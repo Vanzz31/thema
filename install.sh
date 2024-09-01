@@ -23,7 +23,7 @@ display_welcome() {
   echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
   echo -e "@Vanzz333"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
-  echo -e "@FadhostOffc"
+  echo -e "@Vanzz333"
   sleep 4
   clear
 }
